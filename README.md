@@ -31,3 +31,5 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
 <BR>
 ## Visualizing Cryptocurrencies Results
 <img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/scatter_chart.png">
+<BR><BR>
+<img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/3d_scatter_plot.png">
