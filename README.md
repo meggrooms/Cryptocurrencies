@@ -14,4 +14,6 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
 • Created a new DataFrame that holds only the cryptocurrency names
 <BR>
 <img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/new_dataframe.png" height=400>
-
+<BR><BR>
+## Reducing Data Dimensions Using PCA
+• Applied PCA to reduce the dimensions to three principal components
