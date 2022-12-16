@@ -6,11 +6,11 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 <BR><BR>
 ## Data Preparation
 I preprocessed the data to prepare it for for dimension reduction and clustering
-<br>
-• Data was retrieved from <a href="https://min-api.cryptocompare.com/data/all/coinlist" target=”_blank”>CryptoCompare.</a>
+<br><br>
+• Data was retrieved from <a href="https://min-api.cryptocompare.com/data/all/coinlist" target=”_blank”>CryptoCompare</a>
 <BR><BR>
-• Filtered the DataFram & dropped columns not needed and removed null values
-<Br><BR>
+• Filtered the DataFrame & dropped columns not needed and removed null values
+<BR><BR>
 • Created a new DataFrame that holds only the cryptocurrency names
 <BR>
 <img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/new_dataframe.png" height=400>
