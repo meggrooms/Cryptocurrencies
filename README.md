@@ -19,3 +19,11 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
 • Applied PCA to reduce the dimensions to three principal components
 <br>
 <img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/PCA_pc.png" height=400>
+<BR><BR>
+## Clustering Cryptocurrencies Using K-means
+• Created an elbow curve to determine the best value for K
+<BR>
+• Used the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
+<br>
+• Edited the DataFrame as necessary to reflect the required information
+<Br>
