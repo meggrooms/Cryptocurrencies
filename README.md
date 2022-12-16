@@ -26,5 +26,7 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
 • Used the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
 <br>
 • Edited the DataFrame as necessary to reflect the required information
-<Br><BR>
+<Br>
+  <img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/elbow_curve.png">
+<BR>
 ## Visualizing Cryptocurrencies Results
