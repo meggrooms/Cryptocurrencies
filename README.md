@@ -30,3 +30,4 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
   <img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/elbow_curve.png">
 <BR>
 ## Visualizing Cryptocurrencies Results
+<img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/scatter_chart.png">
