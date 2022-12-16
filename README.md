@@ -6,3 +6,7 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 <BR><BR>
 ## Data Preparation
 <BR><BR>
+• Prepare data for dimension reduction with PCA and clustering using K-Means.
+<br>
+• Data was retrieved from <a href="https://min-api.cryptocompare.com/data/all/coinlist" target=”_blank”>CryptoCompare.</a>
+ 
