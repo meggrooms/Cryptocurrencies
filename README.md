@@ -12,5 +12,6 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
 • Filtered the DataFram & dropped columns not needed and removed null values
 <Br><BR>
 • Created a new DataFrame that holds only the cryptocurrency names
-<BR><BR>
-• 
+<BR>
+<img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/new_dataframe.png" height=400>
+
