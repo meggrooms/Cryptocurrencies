@@ -18,4 +18,4 @@ I preprocessed the data to prepare it for for dimension reduction and clustering
 ## Reducing Data Dimensions Using PCA
 • Applied PCA to reduce the dimensions to three principal components
 <br>
-<img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/PCA_pc.png">
+<img src="https://github.com/meggrooms/Cryptocurrencies/blob/main/images/PCA_pc.png" height=400>
